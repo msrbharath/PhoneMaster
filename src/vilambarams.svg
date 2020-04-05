@@ -1,0 +1,16 @@
+<svg width="165" height="57" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#f7fcfc" id="canvas_background" height="59" width="167" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(0.4720530158507068,0,0,1,68.05489099907429,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="36.237665" x="44.320483" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">விளம்பரம்'s</text>
+  <path stroke="#000" id="svg_6" d="m119.47283,0c-15.244076,0 -28.700391,4.709218 -36.972819,11.909431c-8.259611,-7.200213 -21.722338,-11.909431 -36.972819,-11.909431c-25.144084,0 -45.527193,12.759817 -45.527193,28.5c0,15.740177 20.38311,28.5 45.527193,28.5c15.244076,0 28.706796,-4.713235 36.972819,-11.913448c8.266016,7.200213 21.728743,11.913448 36.972819,11.913448c25.150481,0 45.527186,-12.763834 45.527186,-28.5c0,-15.744194 -20.383102,-28.5 -45.527186,-28.5zm-0.006412,51.853552c-20.575342,0 -37.299613,-10.469387 -37.299613,-23.349541c0,-12.888175 16.724271,-23.361579 37.299613,-23.361579c20.588158,0 37.318841,10.473404 37.318841,23.361579c0,12.880154 -16.737087,23.349541 -37.318841,23.349541z" stroke-opacity="0" stroke-width="0" fill="#00ff7f"/>
+ </g>
+</svg>
